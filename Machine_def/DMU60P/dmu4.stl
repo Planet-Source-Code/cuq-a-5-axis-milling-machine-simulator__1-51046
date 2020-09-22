@@ -1,0 +1,86 @@
+solid c:\devel\machine_def\dmu4.stl
+  facet normal  0.000 -721209.032  0.000
+    outer loop
+      vertex 769.101 -100.010 -553.046
+      vertex -435.049 -100.010 46.954
+      vertex -432.914 -100.010 -553.046
+    endloop
+  endfacet
+  facet normal  0.000 -721209.618  0.000
+    outer loop
+      vertex 766.967 -100.010 46.954
+      vertex -435.049 -100.010 46.954
+      vertex 769.101 -100.010 -553.046
+    endloop
+  endfacet
+  facet normal 1200.000  0.000  4.270
+    outer loop
+      vertex -435.049 -100.010 46.954
+      vertex -435.049 -102.010 46.954
+      vertex -432.914 -100.010 -553.046
+    endloop
+  endfacet
+  facet normal  0.000  0.000 2404.030
+    outer loop
+      vertex -432.914 -100.010 -553.046
+      vertex -432.914 -102.010 -553.046
+      vertex 769.101 -100.010 -553.046
+    endloop
+  endfacet
+  facet normal  0.000  0.000 -2404.032
+    outer loop
+      vertex 766.967 -100.010 46.954
+      vertex 766.967 -102.010 46.954
+      vertex -435.049 -100.010 46.954
+    endloop
+  endfacet
+  facet normal -1200.000  0.000 -4.268
+    outer loop
+      vertex 769.101 -100.010 -553.046
+      vertex 769.101 -102.010 -553.046
+      vertex 766.967 -100.010 46.954
+    endloop
+  endfacet
+  facet normal  0.000  0.000 -2404.032
+    outer loop
+      vertex -435.049 -100.010 46.954
+      vertex 766.967 -102.010 46.954
+      vertex -435.049 -102.010 46.954
+    endloop
+  endfacet
+  facet normal 1200.000  0.000  4.270
+    outer loop
+      vertex -432.914 -100.010 -553.046
+      vertex -435.049 -102.010 46.954
+      vertex -432.914 -102.010 -553.046
+    endloop
+  endfacet
+  facet normal  0.000  0.000 2404.030
+    outer loop
+      vertex 769.101 -100.010 -553.046
+      vertex -432.914 -102.010 -553.046
+      vertex 769.101 -102.010 -553.046
+    endloop
+  endfacet
+  facet normal -1200.000  0.000 -4.268
+    outer loop
+      vertex 766.967 -100.010 46.954
+      vertex 769.101 -102.010 -553.046
+      vertex 766.967 -102.010 46.954
+    endloop
+  endfacet
+  facet normal  0.000 721209.618  0.000
+    outer loop
+      vertex 766.967 -102.010 46.954
+      vertex 769.101 -102.010 -553.046
+      vertex -435.049 -102.010 46.954
+    endloop
+  endfacet
+  facet normal  0.000 721209.032  0.000
+    outer loop
+      vertex 769.101 -102.010 -553.046
+      vertex -432.914 -102.010 -553.046
+      vertex -435.049 -102.010 46.954
+    endloop
+  endfacet
+endsolid c:\devel\machine_def\dmu4.stl

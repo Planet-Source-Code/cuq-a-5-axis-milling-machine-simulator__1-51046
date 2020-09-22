@@ -1,0 +1,86 @@
+solid c:\devel\machine_simulation\machine\3axes0.stl
+  facet normal  0.000  0.000 7020000.000
+    outer loop
+      vertex -1950.000 900.000  0.010
+      vertex -1950.000 -900.000  0.010
+      vertex 1950.000 -900.000  0.010
+    endloop
+  endfacet
+  facet normal -180000.000  0.000  0.000
+    outer loop
+      vertex -1950.000 900.000  0.010
+      vertex -1950.000 900.000 -99.990
+      vertex -1950.000 -900.000  0.010
+    endloop
+  endfacet
+  facet normal  0.000 -390000.000  0.000
+    outer loop
+      vertex -1950.000 -900.000  0.010
+      vertex -1950.000 -900.000 -99.990
+      vertex 1950.000 -900.000  0.010
+    endloop
+  endfacet
+  facet normal  0.000  0.000 7020000.000
+    outer loop
+      vertex 1950.000 900.000  0.010
+      vertex -1950.000 900.000  0.010
+      vertex 1950.000 -900.000  0.010
+    endloop
+  endfacet
+  facet normal  0.000 390000.000  0.000
+    outer loop
+      vertex -1950.000 900.000  0.010
+      vertex 1950.000 900.000 -99.990
+      vertex -1950.000 900.000 -99.990
+    endloop
+  endfacet
+  facet normal -180000.000  0.000  0.000
+    outer loop
+      vertex -1950.000 -900.000  0.010
+      vertex -1950.000 900.000 -99.990
+      vertex -1950.000 -900.000 -99.990
+    endloop
+  endfacet
+  facet normal  0.000 -390000.000  0.000
+    outer loop
+      vertex 1950.000 -900.000  0.010
+      vertex -1950.000 -900.000 -99.990
+      vertex 1950.000 -900.000 -99.990
+    endloop
+  endfacet
+  facet normal  0.000 390000.000  0.000
+    outer loop
+      vertex 1950.000 900.000  0.010
+      vertex 1950.000 900.000 -99.990
+      vertex -1950.000 900.000  0.010
+    endloop
+  endfacet
+  facet normal 180000.000  0.000  0.000
+    outer loop
+      vertex 1950.000 -900.000  0.010
+      vertex 1950.000 -900.000 -99.990
+      vertex 1950.000 900.000  0.010
+    endloop
+  endfacet
+  facet normal  0.000  0.000 -7020000.000
+    outer loop
+      vertex 1950.000 900.000 -99.990
+      vertex 1950.000 -900.000 -99.990
+      vertex -1950.000 900.000 -99.990
+    endloop
+  endfacet
+  facet normal  0.000  0.000 -7020000.000
+    outer loop
+      vertex -1950.000 900.000 -99.990
+      vertex 1950.000 -900.000 -99.990
+      vertex -1950.000 -900.000 -99.990
+    endloop
+  endfacet
+  facet normal 180000.000  0.000  0.000
+    outer loop
+      vertex 1950.000 900.000  0.010
+      vertex 1950.000 -900.000 -99.990
+      vertex 1950.000 900.000 -99.990
+    endloop
+  endfacet
+endsolid c:\devel\machine_simulation\machine\3axes0.stl

@@ -1,0 +1,86 @@
+solid c:\devel\machine_simulation\machine\mecof2.stl
+  facet normal  0.000  0.000 714000.000
+    outer loop
+      vertex -80.001 1877.000 669.996
+      vertex 519.999 687.000 669.996
+      vertex 519.999 1877.000 669.996
+    endloop
+  endfacet
+  facet normal  0.000  0.000 714000.000
+    outer loop
+      vertex 519.999 687.000 669.996
+      vertex -80.001 1877.000 669.996
+      vertex -80.001 687.000 669.996
+    endloop
+  endfacet
+  facet normal 1523200.000  0.000  0.000
+    outer loop
+      vertex 519.999 687.000 -610.004
+      vertex 519.999 1877.000 669.996
+      vertex 519.999 687.000 669.996
+    endloop
+  endfacet
+  facet normal -1523200.000  0.000  0.000
+    outer loop
+      vertex -80.001 1877.000 -610.004
+      vertex -80.001 687.000 669.996
+      vertex -80.001 1877.000 669.996
+    endloop
+  endfacet
+  facet normal 1523200.000  0.000  0.000
+    outer loop
+      vertex 519.999 1877.000 669.996
+      vertex 519.999 687.000 -610.004
+      vertex 519.999 1877.000 -610.004
+    endloop
+  endfacet
+  facet normal -1523200.000  0.000  0.000
+    outer loop
+      vertex -80.001 687.000 669.996
+      vertex -80.001 1877.000 -610.004
+      vertex -80.001 687.000 -610.004
+    endloop
+  endfacet
+  facet normal  0.000  0.000 -714000.000
+    outer loop
+      vertex -80.001 687.000 -610.004
+      vertex 519.999 1877.000 -610.004
+      vertex 519.999 687.000 -610.004
+    endloop
+  endfacet
+  facet normal  0.000  0.000 -714000.000
+    outer loop
+      vertex 519.999 1877.000 -610.004
+      vertex -80.001 687.000 -610.004
+      vertex -80.001 1877.000 -610.004
+    endloop
+  endfacet
+  facet normal  0.000 768000.000  0.000
+    outer loop
+      vertex 519.999 687.000 -610.004
+      vertex -80.001 687.000 669.996
+      vertex 519.999 687.000 669.996
+    endloop
+  endfacet
+  facet normal  0.000 768000.000  0.000
+    outer loop
+      vertex -80.001 687.000 669.996
+      vertex 519.999 687.000 -610.004
+      vertex -80.001 687.000 -610.004
+    endloop
+  endfacet
+  facet normal  0.000 -768000.000  0.000
+    outer loop
+      vertex -80.001 1877.000 -610.004
+      vertex 519.999 1877.000 669.996
+      vertex -80.001 1877.000 669.996
+    endloop
+  endfacet
+  facet normal  0.000 -768000.000  0.000
+    outer loop
+      vertex 519.999 1877.000 669.996
+      vertex -80.001 1877.000 -610.004
+      vertex 519.999 1877.000 -610.004
+    endloop
+  endfacet
+endsolid c:\devel\machine_simulation\machine\mecof2.stl

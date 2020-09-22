@@ -1,0 +1,401 @@
+solid c:\devel\machine_simulation\machine\3axes1.stl
+  facet normal  0.000 3397349.750  0.000
+    outer loop
+      vertex 5802.340 -1000.000 -100.000
+      vertex 4741.500 -1000.000 3090.000
+      vertex 5806.500 -1000.000 3090.000
+    endloop
+  endfacet
+  facet normal  0.000 3384078.750  0.000
+    outer loop
+      vertex 4741.500 -1000.000 3090.000
+      vertex 5802.340 -1000.000 -100.000
+      vertex 4741.500 -1000.000 -100.000
+    endloop
+  endfacet
+  facet normal  0.000 13270.897  0.000
+    outer loop
+      vertex 5806.500 -1000.000 3090.000
+      vertex 5806.500 -1000.000 -100.000
+      vertex 5802.340 -1000.000 -100.000
+    endloop
+  endfacet
+  facet normal  0.000 -3384079.250  0.000
+    outer loop
+      vertex 4741.500 1000.000 3090.000
+      vertex 4741.500 1000.000 -100.000
+      vertex 5802.340 1000.000 -100.000
+    endloop
+  endfacet
+  facet normal  0.000 -3397350.250  0.000
+    outer loop
+      vertex 4741.500 1000.000 3090.000
+      vertex 5802.340 1000.000 -100.000
+      vertex 5806.500 1000.000 3090.000
+    endloop
+  endfacet
+  facet normal  0.000 -13270.899  0.000
+    outer loop
+      vertex 5806.500 1000.000 -100.000
+      vertex 5806.500 1000.000 3090.000
+      vertex 5802.340 1000.000 -100.000
+    endloop
+  endfacet
+  facet normal -12460.938  0.000  0.000
+    outer loop
+      vertex 4741.500 1003.906 -100.000
+      vertex 4741.500 1000.000 -100.000
+      vertex 4741.500 1000.000 3090.000
+    endloop
+  endfacet
+  facet normal -3190000.250  0.000  0.000
+    outer loop
+      vertex 4741.500 1000.000 3090.000
+      vertex 4741.500 2000.000 3090.000
+      vertex 4741.500 1003.906 -100.000
+    endloop
+  endfacet
+  facet normal -3177539.250  0.000  0.000
+    outer loop
+      vertex 4741.500 2000.000 3090.000
+      vertex 4741.500 2000.000 -100.000
+      vertex 4741.500 1003.906 -100.000
+    endloop
+  endfacet
+  facet normal -3177539.250  0.000  0.000
+    outer loop
+      vertex 4741.500 -1003.906 -100.000
+      vertex 4741.500 -2000.000 -100.000
+      vertex 4741.500 -2000.000 3090.000
+    endloop
+  endfacet
+  facet normal -3190000.250  0.000  0.000
+    outer loop
+      vertex 4741.500 -2000.000 3090.000
+      vertex 4741.500 -1000.000 3090.000
+      vertex 4741.500 -1003.906 -100.000
+    endloop
+  endfacet
+  facet normal -12460.938  0.000  0.000
+    outer loop
+      vertex 4741.500 -1000.000 3090.000
+      vertex 4741.500 -1000.000 -100.000
+      vertex 4741.500 -1003.906 -100.000
+    endloop
+  endfacet
+  facet normal  0.000  0.000 -2934999.750
+    outer loop
+      vertex 5806.500 1000.000 -100.000
+      vertex 5806.500 2000.000 -100.000
+      vertex 8741.500 2000.000 -100.000
+    endloop
+  endfacet
+  facet normal  0.000  0.000 -5870000.000
+    outer loop
+      vertex 5806.500 -1000.000 -100.000
+      vertex 5806.500 1000.000 -100.000
+      vertex 8741.500 2000.000 -100.000
+    endloop
+  endfacet
+  facet normal  0.000  0.000 -2130000.000
+    outer loop
+      vertex 5806.500 -1000.000 -100.000
+      vertex 4741.500 1000.000 -100.000
+      vertex 5806.500 1000.000 -100.000
+    endloop
+  endfacet
+  facet normal  0.000  0.000 -11740001.000
+    outer loop
+      vertex 8741.500 2000.000 -100.000
+      vertex 8741.500 -2000.000 -100.000
+      vertex 5806.500 -1000.000 -100.000
+    endloop
+  endfacet
+  facet normal  0.000  0.000 -2130000.000
+    outer loop
+      vertex 5806.500 -1000.000 -100.000
+      vertex 4741.500 -1000.000 -100.000
+      vertex 4741.500 1000.000 -100.000
+    endloop
+  endfacet
+  facet normal  0.000  0.000 -2935000.000
+    outer loop
+      vertex 5806.500 -2000.000 -100.000
+      vertex 5806.500 -1000.000 -100.000
+      vertex 8741.500 -2000.000 -100.000
+    endloop
+  endfacet
+  facet normal  0.000  0.000 -11870002.000
+    outer loop
+      vertex 4741.500 -1000.000 -100.000
+      vertex -1193.501 2000.000 -100.000
+      vertex 4741.500 1000.000 -100.000
+    endloop
+  endfacet
+  facet normal -3190000.000  0.000  0.000
+    outer loop
+      vertex 5806.500 -2000.000 3090.000
+      vertex 5806.500 -1000.000 -100.000
+      vertex 5806.500 -2000.000 -100.000
+    endloop
+  endfacet
+  facet normal  0.000  0.000 -23740002.000
+    outer loop
+      vertex -1193.501 2000.000 -100.000
+      vertex 4741.500 -1000.000 -100.000
+      vertex -1193.500 -2000.000 -100.000
+    endloop
+  endfacet
+  facet normal  0.000  0.000 -5935000.500
+    outer loop
+      vertex 4741.500 1000.000 -100.000
+      vertex -1193.501 2000.000 -100.000
+      vertex 4741.500 2000.000 -100.000
+    endloop
+  endfacet
+  facet normal -3190000.000  0.000  0.000
+    outer loop
+      vertex 5806.500 -1000.000 -100.000
+      vertex 5806.500 -2000.000 3090.000
+      vertex 5806.500 -1000.000 3090.000
+    endloop
+  endfacet
+  facet normal  0.000  0.000 -5935000.500
+    outer loop
+      vertex 4741.500 -2000.000 -100.000
+      vertex -1193.500 -2000.000 -100.000
+      vertex 4741.500 -1000.000 -100.000
+    endloop
+  endfacet
+  facet normal  0.828 -3596247.250 -0.259
+    outer loop
+      vertex 4741.500 -2000.000 3090.000
+      vertex 4741.500 -2000.000 -300.000
+      vertex 5802.340 -2000.000 -300.000
+    endloop
+  endfacet
+  facet normal  1.655 -3610350.250 -0.002
+    outer loop
+      vertex 4741.500 -2000.000 3090.000
+      vertex 5802.340 -2000.000 -300.000
+      vertex 5806.500 -2000.000 3090.000
+    endloop
+  endfacet
+  facet normal  0.000 -14102.931  0.000
+    outer loop
+      vertex 5806.500 -2000.000 -300.000
+      vertex 5806.500 -2000.000 3090.000
+      vertex 5802.340 -2000.000 -300.000
+    endloop
+  endfacet
+  facet normal  0.000 -2292.969  0.000
+    outer loop
+      vertex 8730.035 -2000.000 -300.000
+      vertex 8741.500 -2000.000 -300.000
+      vertex 8741.500 -2000.000 -100.000
+    endloop
+  endfacet
+  facet normal  0.000 -587000.000  0.000
+    outer loop
+      vertex 8741.500 -2000.000 -100.000
+      vertex 5806.500 -2000.000 -100.000
+      vertex 8730.035 -2000.000 -300.000
+    endloop
+  endfacet
+  facet normal  0.000 -584706.938  0.000
+    outer loop
+      vertex 5806.500 -2000.000 -100.000
+      vertex 5806.500 -2000.000 -300.000
+      vertex 8730.035 -2000.000 -300.000
+    endloop
+  endfacet
+  facet normal -3125.000  0.000  0.000
+    outer loop
+      vertex 8741.500 2000.000 -100.000
+      vertex 8741.500 2000.000 -300.000
+      vertex 8741.500 1984.375 -300.000
+    endloop
+  endfacet
+  facet normal  0.000 -584707.000  0.000
+    outer loop
+      vertex 5817.965 2000.000 -300.000
+      vertex 8741.500 2000.000 -300.000
+      vertex 8741.500 2000.000 -100.000
+    endloop
+  endfacet
+  facet normal -800000.000  0.000  0.000
+    outer loop
+      vertex 8741.500 2000.000 -100.000
+      vertex 8741.500 1984.375 -300.000
+      vertex 8741.500 -2000.000 -100.000
+    endloop
+  endfacet
+  facet normal  0.000 -587000.000  0.000
+    outer loop
+      vertex 8741.500 2000.000 -100.000
+      vertex 5806.500 2000.000 -100.000
+      vertex 5817.965 2000.000 -300.000
+    endloop
+  endfacet
+  facet normal -796874.875  0.000  0.000
+    outer loop
+      vertex 8741.500 -2000.000 -300.000
+      vertex 8741.500 -2000.000 -100.000
+      vertex 8741.500 1984.375 -300.000
+    endloop
+  endfacet
+  facet normal  0.000 -2292.969  0.000
+    outer loop
+      vertex 5806.500 2000.000 -100.000
+      vertex 5806.500 2000.000 -300.000
+      vertex 5817.965 2000.000 -300.000
+    endloop
+  endfacet
+  facet normal 3190000.000  0.000  0.000
+    outer loop
+      vertex 5806.500 2000.000 3090.000
+      vertex 5806.500 1000.000 -100.000
+      vertex 5806.500 2000.000 -100.000
+    endloop
+  endfacet
+  facet normal 3190000.000  0.000  0.000
+    outer loop
+      vertex 5806.500 1000.000 -100.000
+      vertex 5806.500 2000.000 3090.000
+      vertex 5806.500 1000.000 3090.000
+    endloop
+  endfacet
+  facet normal  0.000  0.000 1065000.000
+    outer loop
+      vertex 5806.500 1000.000 3090.000
+      vertex 5806.500 2000.000 3090.000
+      vertex 4741.500 2000.000 3090.000
+    endloop
+  endfacet
+  facet normal  0.000  0.000 1065000.000
+    outer loop
+      vertex 4741.500 2000.000 3090.000
+      vertex 4741.500 1000.000 3090.000
+      vertex 5806.500 1000.000 3090.000
+    endloop
+  endfacet
+  facet normal  0.000 3610350.000 -0.130
+    outer loop
+      vertex 4745.660 2000.000 -300.000
+      vertex 4741.500 2000.000 3090.000
+      vertex 5806.500 2000.000 3090.000
+    endloop
+  endfacet
+  facet normal  0.414 14102.930  0.000
+    outer loop
+      vertex 4741.500 2000.000 3090.000
+      vertex 4745.660 2000.000 -300.000
+      vertex 4741.500 2000.000 -300.000
+    endloop
+  endfacet
+  facet normal -0.414 3596247.000  0.000
+    outer loop
+      vertex 5806.500 2000.000 3090.000
+      vertex 5806.500 2000.000 -300.000
+      vertex 4745.660 2000.000 -300.000
+    endloop
+  endfacet
+  facet normal  0.000  0.000 39740000.000
+    outer loop
+      vertex 8741.500 -2000.000 -300.000
+      vertex -1193.500 2000.000 -300.000
+      vertex -1193.500 -2000.000 -300.000
+    endloop
+  endfacet
+  facet normal  0.000  0.000 39740000.000
+    outer loop
+      vertex -1193.500 2000.000 -300.000
+      vertex 8741.500 -2000.000 -300.000
+      vertex 8741.500 2000.000 -300.000
+    endloop
+  endfacet
+  facet normal  0.000  0.000 4000000.000
+    outer loop
+      vertex -2193.500 2000.000 -300.000
+      vertex -1193.500 -2000.000 -300.000
+      vertex -1193.500 2000.000 -300.000
+    endloop
+  endfacet
+  facet normal  0.000  0.000 4000000.000
+    outer loop
+      vertex -1193.500 -2000.000 -300.000
+      vertex -2193.500 2000.000 -300.000
+      vertex -2193.500 -2000.000 -300.000
+    endloop
+  endfacet
+  facet normal -800000.000  0.000  0.000
+    outer loop
+      vertex -2193.500 -2000.000 -100.000
+      vertex -2193.500 2000.000 -300.000
+      vertex -2193.500 -2000.000 -300.000
+    endloop
+  endfacet
+  facet normal -800000.000  0.000  0.000
+    outer loop
+      vertex -2193.500 2000.000 -300.000
+      vertex -2193.500 -2000.000 -100.000
+      vertex -2193.500 2000.000 -100.000
+    endloop
+  endfacet
+  facet normal  0.000 -1387000.000  0.000
+    outer loop
+      vertex 4741.500 -2000.000 -300.000
+      vertex -2193.500 -2000.000 -100.000
+      vertex -2193.500 -2000.000 -300.000
+    endloop
+  endfacet
+  facet normal  0.000  0.000 4000000.000
+    outer loop
+      vertex -1193.500 -2000.000 -100.000
+      vertex -2193.500 2000.000 -100.000
+      vertex -2193.500 -2000.000 -100.000
+    endloop
+  endfacet
+  facet normal  0.000 1387000.000  0.000
+    outer loop
+      vertex 4741.500 2000.000 -100.000
+      vertex -2193.500 2000.000 -300.000
+      vertex -2193.500 2000.000 -100.000
+    endloop
+  endfacet
+  facet normal  0.000 -1387000.000  0.000
+    outer loop
+      vertex -2193.500 -2000.000 -100.000
+      vertex 4741.500 -2000.000 -300.000
+      vertex 4741.500 -2000.000 -100.000
+    endloop
+  endfacet
+  facet normal  0.000  0.000 4000000.000
+    outer loop
+      vertex -2193.500 2000.000 -100.000
+      vertex -1193.500 -2000.000 -100.000
+      vertex -1193.500 2000.000 -100.000
+    endloop
+  endfacet
+  facet normal  0.000 1387000.000  0.000
+    outer loop
+      vertex -2193.500 2000.000 -300.000
+      vertex 4741.500 2000.000 -100.000
+      vertex 4741.500 2000.000 -300.000
+    endloop
+  endfacet
+  facet normal  0.000  0.000 1065000.000
+    outer loop
+      vertex 4741.500 -1000.000 3090.000
+      vertex 4741.500 -2000.000 3090.000
+      vertex 5806.500 -2000.000 3090.000
+    endloop
+  endfacet
+  facet normal  0.000  0.000 1065000.000
+    outer loop
+      vertex 5806.500 -2000.000 3090.000
+      vertex 5806.500 -1000.000 3090.000
+      vertex 4741.500 -1000.000 3090.000
+    endloop
+  endfacet
+endsolid c:\devel\machine_simulation\machine\3axes1.stl
