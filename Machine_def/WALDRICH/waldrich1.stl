@@ -1,0 +1,198 @@
+solid c:\devel\machine_simulation\machine\waldrich1.stl
+  facet normal  0.386 -2197590.500  0.232
+    outer loop
+      vertex -0.210 -0.000 -0.000
+      vertex -950.210 -0.000 1581.000
+      vertex -1390.210 -0.000 -0.000
+    endloop
+  endfacet
+  facet normal  0.000 -1106700.125  0.000
+    outer loop
+      vertex -950.210 -0.000 1581.000
+      vertex -0.210 -0.000 -0.000
+      vertex -250.210 -0.000 1581.000
+    endloop
+  endfacet
+  facet normal  0.037 -761640.313  0.107
+    outer loop
+      vertex -1390.210 -0.000 1731.000
+      vertex -1390.210 -0.000 -0.000
+      vertex -950.210 -0.000 1581.000
+    endloop
+  endfacet
+  facet normal  0.000 -432750.281  0.000
+    outer loop
+      vertex -0.210 -0.000 1731.000
+      vertex -250.210 -0.000 1581.000
+      vertex -0.210 -0.000 -0.000
+    endloop
+  endfacet
+  facet normal  0.000 -66000.125  0.000
+    outer loop
+      vertex -950.210 -0.000 1581.000
+      vertex -950.210 -0.000 1731.000
+      vertex -1390.210 -0.000 1731.000
+    endloop
+  endfacet
+  facet normal  0.000 -37500.078  0.000
+    outer loop
+      vertex -250.210 -0.000 1581.000
+      vertex -0.210 -0.000 1731.000
+      vertex -250.210 -0.000 1731.000
+    endloop
+  endfacet
+  facet normal  0.000 -2197590.500  0.000
+    outer loop
+      vertex -0.210 4770.000 -0.000
+      vertex -950.210 4770.000 1581.000
+      vertex -1390.210 4770.000 -0.000
+    endloop
+  endfacet
+  facet normal  0.000 -1106700.125  0.000
+    outer loop
+      vertex -950.210 4770.000 1581.000
+      vertex -0.210 4770.000 -0.000
+      vertex -250.210 4770.000 1581.000
+    endloop
+  endfacet
+  facet normal  0.000 -761640.313  0.000
+    outer loop
+      vertex -1390.210 4770.000 1731.000
+      vertex -1390.210 4770.000 -0.000
+      vertex -950.210 4770.000 1581.000
+    endloop
+  endfacet
+  facet normal  0.000 -432750.281  0.000
+    outer loop
+      vertex -0.210 4770.000 1731.000
+      vertex -250.210 4770.000 1581.000
+      vertex -0.210 4770.000 -0.000
+    endloop
+  endfacet
+  facet normal  0.000 -66000.125  0.000
+    outer loop
+      vertex -950.210 4770.000 1581.000
+      vertex -950.210 4770.000 1731.000
+      vertex -1390.210 4770.000 1731.000
+    endloop
+  endfacet
+  facet normal  0.000 -37500.078  0.000
+    outer loop
+      vertex -250.210 4770.000 1581.000
+      vertex -0.210 4770.000 1731.000
+      vertex -250.210 4770.000 1731.000
+    endloop
+  endfacet
+  facet normal -3.494 -1.018 -6630295.500
+    outer loop
+      vertex -0.211 -0.000 -0.000
+      vertex -1390.210 -0.000  0.000
+      vertex -1390.210 4770.000 -0.000
+    endloop
+  endfacet
+  facet normal -8256870.000  0.000  0.000
+    outer loop
+      vertex -1390.210 -0.000  0.000
+      vertex -1390.210 4770.000 1731.000
+      vertex -1390.210 4770.000 -0.000
+    endloop
+  endfacet
+  facet normal  0.000  0.000 -6630301.000
+    outer loop
+      vertex -0.211 -0.000 -0.000
+      vertex -1390.210 4770.000 -0.000
+      vertex -0.210 4770.000 -0.000
+    endloop
+  endfacet
+  facet normal -8256866.500 -0.211  0.582
+    outer loop
+      vertex -1390.210 -0.000 1731.000
+      vertex -1390.210 4770.000 1731.000
+      vertex -1390.210 -0.000  0.000
+    endloop
+  endfacet
+  facet normal 8256861.000 -1.902 -5.240
+    outer loop
+      vertex -0.210 4770.000 -0.000
+      vertex -0.210 -0.000 1730.998
+      vertex -0.211 -0.000 -0.000
+    endloop
+  endfacet
+  facet normal  0.000  0.000 2098800.750
+    outer loop
+      vertex -1390.210 -0.000 1731.000
+      vertex -950.210 4770.000 1731.000
+      vertex -1390.210 4770.000 1731.000
+    endloop
+  endfacet
+  facet normal 8256861.000  0.000  0.000
+    outer loop
+      vertex -0.210 -0.000 1730.998
+      vertex -0.210 4770.000 -0.000
+      vertex -0.210 4770.000 1730.998
+    endloop
+  endfacet
+  facet normal  0.000  0.000 2098800.250
+    outer loop
+      vertex -950.210 -0.000 1731.000
+      vertex -950.210 4770.000 1731.000
+      vertex -1390.210 -0.000 1731.000
+    endloop
+  endfacet
+  facet normal 715498.813  0.000  0.000
+    outer loop
+      vertex -950.210 -0.000 1731.000
+      vertex -950.210 4770.000 1581.000
+      vertex -950.210 4770.000 1731.000
+    endloop
+  endfacet
+  facet normal 715500.000  0.000  0.000
+    outer loop
+      vertex -950.210 4770.000 1581.000
+      vertex -950.210 -0.000 1731.000
+      vertex -950.210 -0.000 1581.000
+    endloop
+  endfacet
+  facet normal  1.165 -0.171 3338987.750
+    outer loop
+      vertex -950.210 -0.000 1581.000
+      vertex -250.213 4770.000 1581.000
+      vertex -950.210 4770.000 1581.000
+    endloop
+  endfacet
+  facet normal  0.000  0.000 3339000.000
+    outer loop
+      vertex -250.210 -0.000 1581.000
+      vertex -250.213 4770.000 1581.000
+      vertex -950.210 -0.000 1581.000
+    endloop
+  endfacet
+  facet normal -715495.313 -0.385 12.228
+    outer loop
+      vertex -250.210 -0.000 1581.000
+      vertex -250.210 4770.000 1730.999
+      vertex -250.213 4770.000 1581.000
+    endloop
+  endfacet
+  facet normal -715500.000  0.000  0.000
+    outer loop
+      vertex -250.210 4770.000 1730.999
+      vertex -250.210 -0.000 1581.000
+      vertex -250.210 -0.000 1731.000
+    endloop
+  endfacet
+  facet normal -4.658  0.244 1192490.125
+    outer loop
+      vertex -250.210 -0.000 1731.000
+      vertex -0.212 4770.000 1731.000
+      vertex -250.210 4770.000 1730.999
+    endloop
+  endfacet
+  facet normal  0.000  0.000 1192490.125
+    outer loop
+      vertex -0.212 4770.000 1731.000
+      vertex -250.210 -0.000 1731.000
+      vertex -0.212 -0.000 1731.000
+    endloop
+  endfacet
+endsolid c:\devel\machine_simulation\machine\waldrich1.stl

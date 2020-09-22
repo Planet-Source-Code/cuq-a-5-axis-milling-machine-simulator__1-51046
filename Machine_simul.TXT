@@ -1,0 +1,3 @@
+Le fichier .cab de votre application a été généré en tant que 'C:\devel\Machine_simulation\Package\Machine_simul.CAB'.
+
+Il y a également dans le dossier de support (C:\devel\Machine_simulation\Package\Support\Machine_simul.BAT) un fichier de commandes qui vous permettra de recréer le fichier .cab si vous modifiez certains des fichiers.

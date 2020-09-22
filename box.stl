@@ -1,0 +1,86 @@
+solid c:\demo\travail\box.stl
+  facet normal -2.234 160032.078 -12.013
+    outer loop
+      vertex -200.028 200.016 400.024
+      vertex 200.028 200.021 400.019
+      vertex -200.040 199.985 -0.000
+    endloop
+  endfacet
+  facet normal  2.050 -4.578 159938.313
+    outer loop
+      vertex 200.039 -199.769 400.008
+      vertex 200.028 200.021 400.019
+      vertex -200.028 200.016 400.024
+    endloop
+  endfacet
+  facet normal -21.565 160022.984  7.320
+    outer loop
+      vertex 199.999 200.039 -0.000
+      vertex -200.040 199.985 -0.000
+      vertex 200.028 200.021 400.019
+    endloop
+  endfacet
+  facet normal -160019.594 -16.548  4.646
+    outer loop
+      vertex -200.040 199.985 -0.000
+      vertex -199.998 -200.039 -0.000
+      vertex -200.028 200.016 400.024
+    endloop
+  endfacet
+  facet normal 159923.453  4.432 -11.688
+    outer loop
+      vertex 199.999 200.039 -0.000
+      vertex 200.028 200.021 400.019
+      vertex 200.039 -199.769 400.008
+    endloop
+  endfacet
+  facet normal 12.996  6.374 159977.797
+    outer loop
+      vertex 200.039 -199.769 400.008
+      vertex -200.028 200.016 400.024
+      vertex -199.961 -199.929 400.040
+    endloop
+  endfacet
+  facet normal -0.000 -0.000 -159957.938
+    outer loop
+      vertex -200.040 199.985 -0.000
+      vertex 199.999 200.039 -0.000
+      vertex 200.040 -199.817 -0.000
+    endloop
+  endfacet
+  facet normal -0.000 -0.000 -160025.234
+    outer loop
+      vertex -200.040 199.985 -0.000
+      vertex 200.040 -199.817 -0.000
+      vertex -199.998 -200.039 -0.000
+    endloop
+  endfacet
+  facet normal -159993.797 -26.894 14.996
+    outer loop
+      vertex -200.028 200.016 400.024
+      vertex -199.998 -200.039 -0.000
+      vertex -199.961 -199.929 400.040
+    endloop
+  endfacet
+  facet normal 159945.547 16.407  0.279
+    outer loop
+      vertex 200.040 -199.817 -0.000
+      vertex 199.999 200.039 -0.000
+      vertex 200.039 -199.769 400.008
+    endloop
+  endfacet
+  facet normal 64.157 -160002.984 19.342
+    outer loop
+      vertex 200.040 -199.817 -0.000
+      vertex 200.039 -199.769 400.008
+      vertex -199.961 -199.929 400.040
+    endloop
+  endfacet
+  facet normal 88.998 -160031.266 44.173
+    outer loop
+      vertex 200.040 -199.817 -0.000
+      vertex -199.961 -199.929 400.040
+      vertex -199.998 -200.039 -0.000
+    endloop
+  endfacet
+endsolid c:\demo\travail\box.stl

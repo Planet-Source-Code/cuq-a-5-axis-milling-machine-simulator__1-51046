@@ -1,0 +1,236 @@
+[Root]
+Most Recent Package=Logiciel d'installation machine simulation
+
+
+[Package|Logiciel d'installation machine simulation|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\devel\Machine_simulation\Package
+
+[Package|Logiciel d'installation machine simulation|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Logiciel d'installation machine simulation|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Logiciel d'installation machine simulation|Files Found]
+
+[Package|Logiciel d'installation machine simulation|Files Released]
+GantryBC.dat=
+FZ30.dat=
+FZ3AXES.dat=
+DMU60P.dat=
+machine5b.stl=
+machine4b.stl=
+machine1b.stl=
+dmu6.stl=
+dmu5.stl=
+dmu4.stl=
+dmu3.stl=
+dmu2.stl=
+dmu1.stl=
+dmu0.stl=
+magasin.stl=
+machine6.stl=
+machine5.stl=
+machine4.stl=
+machine3.stl=
+machine2.stl=
+machine1.stl=
+machine0.stl=
+
+[Package|Logiciel d'installation machine simulation|Missing Dependency Information]
+C:\devel\Robot_simulation\vbogl.tlb=
+C:\WINDOWS\system32\vbogl.tlb=
+
+[Package|Logiciel d'installation machine simulation|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\msstdfmt.dll=
+
+[Package|Logiciel d'installation machine simulation|Files Added]
+c:\devel\machine_simulation\piece.stl=
+c:\devel\machine_simulation\test.nc=
+c:\devel\machine_simulation\piece2.stl=
+c:\devel\machine_simulation\machine_simul.ini=
+c:\devel\machine_simulation\testw.nc=
+c:\devel\machine_simulation\box.stl=
+c:\devel\machine_simulation\machine_def.zip=
+C:\devel\Machine_simulation\box100.stl=
+C:\devel\Machine_simulation\testa.nc=
+C:\devel\Machine_simulation\3ax.nc=
+
+[Package|Logiciel d'installation machine simulation|Files Removed]
+
+[Package|Logiciel d'installation machine simulation|Files In Project]
+C:\devel\Machine_simulation\Machine_simul.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6FR.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCFR.DLL=Yes
+C:\WINDOWS\system32\Richtx32.ocx=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\system32\RCHTXFR.DLL=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGFR.DLL=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\STDFTFR.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\devel\Machine_simulation\piece.stl=Yes
+C:\devel\Machine_simulation\test.nc=Yes
+C:\WINDOWS\system32\vbogl.tlb=Yes
+C:\devel\Machine_simulation\piece2.stl=Yes
+C:\devel\Machine_simulation\Machine_simul.ini=Yes
+C:\devel\Machine_simulation\testW.nc=Yes
+C:\devel\Machine_simulation\box.stl=Yes
+C:\devel\Machine_simulation\Machine_def.zip=Yes
+C:\devel\Machine_simulation\box100.stl=Yes
+C:\devel\Machine_simulation\testa.nc=Yes
+C:\devel\Machine_simulation\3ax.nc=Yes
+
+[Package|Logiciel d'installation machine simulation|Configure Registry Files]
+Applicable=No
+
+[Package|Logiciel d'installation machine simulation|Configure Remote Servers]
+Applicable=No
+
+[Package|Logiciel d'installation machine simulation|Install Locations]
+C:\devel\Machine_simulation\Machine_simul.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6FR.DLL=$(WinSysPath)
+C:\devel\Robot_simulation\vbogl.tlb=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\Richtx32.ocx=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\RCHTXFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\STDFTFR.DLL=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\devel\Machine_simulation\machine0.stl=$(AppPath)
+C:\devel\Machine_simulation\machine1.stl=$(AppPath)
+C:\devel\Machine_simulation\machine2.stl=$(AppPath)
+C:\devel\Machine_simulation\machine3.stl=$(AppPath)
+C:\devel\Machine_simulation\machine4.stl=$(AppPath)
+C:\devel\Machine_simulation\machine5.stl=$(AppPath)
+C:\devel\Machine_simulation\machine6.stl=$(AppPath)
+C:\devel\Machine_simulation\magasin.stl=$(AppPath)
+C:\devel\Machine_simulation\piece.stl=$(AppPath)
+C:\devel\Machine_simulation\test.nc=$(AppPath)
+C:\WINDOWS\system32\vbogl.tlb=$(WinSysPath)
+C:\devel\Machine_simulation\Machine_def\machine0.stl=$(AppPath)\Machine_def
+C:\devel\Machine_simulation\Machine_def\machine1.stl=$(AppPath)\Machine_def
+C:\devel\Machine_simulation\Machine_def\machine2.stl=$(AppPath)\Machine_def
+C:\devel\Machine_simulation\Machine_def\machine3.stl=$(AppPath)\Machine_def
+C:\devel\Machine_simulation\Machine_def\machine4.stl=$(AppPath)\Machine_def
+C:\devel\Machine_simulation\Machine_def\machine5.stl=$(AppPath)\Machine_def
+C:\devel\Machine_simulation\Machine_def\machine6.stl=$(AppPath)\Machine_def
+C:\devel\Machine_simulation\Machine_def\magasin.stl=$(AppPath)\Machine_def
+C:\devel\Machine_simulation\Machine_def\dmu0.stl=$(AppPath)\Machine_def
+C:\devel\Machine_simulation\Machine_def\dmu1.stl=$(AppPath)\Machine_def
+C:\devel\Machine_simulation\Machine_def\dmu2.stl=$(AppPath)\Machine_def
+C:\devel\Machine_simulation\Machine_def\dmu3.stl=$(AppPath)\Machine_def
+C:\devel\Machine_simulation\Machine_def\dmu4.stl=$(AppPath)\Machine_def
+C:\devel\Machine_simulation\Machine_def\dmu5.stl=$(AppPath)\Machine_def
+C:\devel\Machine_simulation\Machine_def\dmu6.stl=$(AppPath)\Machine_def
+C:\devel\Machine_simulation\Machine_def\machine1b.stl=$(AppPath)\Machine_def
+C:\devel\Machine_simulation\Machine_def\machine4b.stl=$(AppPath)\Machine_def
+C:\devel\Machine_simulation\Machine_def\machine5b.stl=$(AppPath)\Machine_def
+C:\devel\Machine_simulation\Machine_def\DMU60P.dat=$(AppPath)\Machine_def
+C:\devel\Machine_simulation\Machine_def\FZ3AXES.dat=$(AppPath)\Machine_def
+C:\devel\Machine_simulation\Machine_def\FZ30.dat=$(AppPath)\Machine_def
+C:\devel\Machine_simulation\Machine_def\GantryBC.dat=$(AppPath)\Machine_def
+C:\devel\Machine_simulation\piece2.stl=$(AppPath)
+C:\devel\Machine_simulation\Machine_simul.ini=$(AppPath)
+C:\devel\Machine_simulation\testW.nc=$(AppPath)
+C:\devel\Machine_simulation\box.stl=$(AppPath)
+C:\devel\Machine_simulation\Machine_def.zip=$(AppPath)
+C:\devel\Machine_simulation\box100.stl=$(AppPath)
+C:\devel\Machine_simulation\testa.nc=$(AppPath)
+C:\devel\Machine_simulation\3ax.nc=$(AppPath)
+
+[Package|Logiciel d'installation machine simulation|Configure Shared Files]
+Applicable=Yes
+C:\devel\Machine_simulation\Machine_simul.exe=No
+C:\devel\Machine_simulation\machine0.stl=No
+C:\devel\Machine_simulation\machine1.stl=No
+C:\devel\Machine_simulation\machine2.stl=No
+C:\devel\Machine_simulation\machine3.stl=No
+C:\devel\Machine_simulation\machine4.stl=No
+C:\devel\Machine_simulation\machine5.stl=No
+C:\devel\Machine_simulation\machine6.stl=No
+C:\devel\Machine_simulation\magasin.stl=No
+C:\devel\Machine_simulation\piece.stl=No
+C:\devel\Machine_simulation\test.nc=No
+C:\devel\Machine_simulation\Machine_def\machine0.stl=No
+C:\devel\Machine_simulation\Machine_def\machine1.stl=No
+C:\devel\Machine_simulation\Machine_def\machine2.stl=No
+C:\devel\Machine_simulation\Machine_def\machine3.stl=No
+C:\devel\Machine_simulation\Machine_def\machine4.stl=No
+C:\devel\Machine_simulation\Machine_def\machine5.stl=No
+C:\devel\Machine_simulation\Machine_def\machine6.stl=No
+C:\devel\Machine_simulation\Machine_def\magasin.stl=No
+C:\devel\Machine_simulation\Machine_def\dmu0.stl=No
+C:\devel\Machine_simulation\Machine_def\dmu1.stl=No
+C:\devel\Machine_simulation\Machine_def\dmu2.stl=No
+C:\devel\Machine_simulation\Machine_def\dmu3.stl=No
+C:\devel\Machine_simulation\Machine_def\dmu4.stl=No
+C:\devel\Machine_simulation\Machine_def\dmu5.stl=No
+C:\devel\Machine_simulation\Machine_def\dmu6.stl=No
+C:\devel\Machine_simulation\Machine_def\machine1b.stl=No
+C:\devel\Machine_simulation\Machine_def\machine4b.stl=No
+C:\devel\Machine_simulation\Machine_def\machine5b.stl=No
+C:\devel\Machine_simulation\Machine_def\DMU60P.dat=No
+C:\devel\Machine_simulation\Machine_def\FZ3AXES.dat=No
+C:\devel\Machine_simulation\Machine_def\FZ30.dat=No
+C:\devel\Machine_simulation\Machine_def\GantryBC.dat=No
+C:\devel\Machine_simulation\piece2.stl=No
+C:\devel\Machine_simulation\Machine_simul.ini=No
+C:\devel\Machine_simulation\testW.nc=No
+C:\devel\Machine_simulation\box.stl=No
+C:\devel\Machine_simulation\Machine_def.zip=No
+C:\devel\Machine_simulation\box100.stl=No
+C:\devel\Machine_simulation\testa.nc=No
+C:\devel\Machine_simulation\3ax.nc=No
+
+[Package|Logiciel d'installation machine simulation|Distribution]
+Type=single
+Size=
+Title=Machine_simul
+
+[Package|Logiciel d'installation machine simulation|Package]
+PackageFolder=C:\devel\Machine_simulation\Package
+ProjectFolder=C:\devel\Machine_simulation
+ServerSideCab=
+File1=C:\devel\Machine_simulation\Package\setup.exe
+File2=C:\devel\Machine_simulation\Package\Setup.Lst
+File3=C:\devel\Machine_simulation\Package\Machine_simul.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Logiciel d'installation machine simulation|IconGroups]
+Group0=Machine_simul
+PrivateGroup0=Faux
+Parent0=$(Programs)
+
+[Package|Logiciel d'installation machine simulation|Machine_simul]
+Icon1=Machine_simul.exe
+Title1=Machine_simul
+StartIn1=$(AppPath)
+Key1=Icon1

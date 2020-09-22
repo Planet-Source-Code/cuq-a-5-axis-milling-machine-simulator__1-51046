@@ -1,0 +1,86 @@
+solid c:\devel\machine_simulation\box100.stl
+  facet normal -0.125 10002.000 -0.775
+    outer loop
+      vertex -50.007 50.004 100.006
+      vertex 50.007 50.005 100.005
+      vertex -50.010 49.996  0.000
+    endloop
+  endfacet
+  facet normal  0.124 -0.275 9996.149
+    outer loop
+      vertex 50.010 -49.942 100.002
+      vertex 50.007 50.005 100.005
+      vertex -50.007 50.004 100.006
+    endloop
+  endfacet
+  facet normal -1.350 10001.450  0.450
+    outer loop
+      vertex 50.000 50.010  0.000
+      vertex -50.010 49.996  0.000
+      vertex 50.007 50.005 100.005
+    endloop
+  endfacet
+  facet normal -10001.200 -1.050  0.300
+    outer loop
+      vertex -50.010 49.996  0.000
+      vertex -50.000 -50.010  0.000
+      vertex -50.007 50.004 100.006
+    endloop
+  endfacet
+  facet normal 9995.225  0.275 -0.725
+    outer loop
+      vertex 50.000 50.010  0.000
+      vertex 50.007 50.005 100.005
+      vertex 50.010 -49.942 100.002
+    endloop
+  endfacet
+  facet normal  0.800  0.401 9998.626
+    outer loop
+      vertex 50.010 -49.942 100.002
+      vertex -50.007 50.004 100.006
+      vertex -49.990 -49.982 100.010
+    endloop
+  endfacet
+  facet normal  0.000  0.000 -9997.375
+    outer loop
+      vertex -50.010 49.996  0.000
+      vertex 50.000 50.010  0.000
+      vertex 50.010 -49.954  0.000
+    endloop
+  endfacet
+  facet normal  0.000  0.000 -10001.551
+    outer loop
+      vertex -50.010 49.996  0.000
+      vertex 50.010 -49.954  0.000
+      vertex -50.000 -50.010  0.000
+    endloop
+  endfacet
+  facet normal -9999.625 -1.675  0.925
+    outer loop
+      vertex -50.007 50.004 100.006
+      vertex -50.000 -50.010  0.000
+      vertex -49.990 -49.982 100.010
+    endloop
+  endfacet
+  facet normal 9996.600  1.025  0.025
+    outer loop
+      vertex 50.010 -49.954  0.000
+      vertex 50.000 50.010  0.000
+      vertex 50.010 -49.942 100.002
+    endloop
+  endfacet
+  facet normal  4.000 -10000.200  1.200
+    outer loop
+      vertex 50.010 -49.954  0.000
+      vertex 50.010 -49.942 100.002
+      vertex -49.990 -49.982 100.010
+    endloop
+  endfacet
+  facet normal  5.551 -10001.950  2.750
+    outer loop
+      vertex 50.010 -49.954  0.000
+      vertex -49.990 -49.982 100.010
+      vertex -50.000 -50.010  0.000
+    endloop
+  endfacet
+endsolid c:\devel\machine_simulation\box100.stl
